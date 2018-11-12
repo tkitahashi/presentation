@@ -123,3 +123,6 @@
 - **2.** **<u>北橋倫</u>**，小島茂明（ポスター）．海溝周辺域における小型甲殻類の多様性．第12回東京大学生命科学シンポジウム，東京，2012年6月．
 
 - **1.** **<u>北橋倫</u>**（口頭）．海溝域におけるソコミジンコ類群集の空間変異．第33回九州海洋生態談話会，熊本，2008年3月．
+
+___
+**[[HOME]](https://tkitahashi.github.io/)  [[CV]](https://tkitahashi.github.io/cv/)  [[研究業績]](https://tkitahashi.github.io/publication/)  [[学会発表]](https://tkitahashi.github.io/presentation/)  [[研究乗船歴]](https://tkitahashi.github.io/cruise/)**
