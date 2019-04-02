@@ -5,11 +5,11 @@
 
 # 国際会議における発表
 
-- **20.** <u>Nakajima, R.</u>, Tsuchiya, M., **Kitahashi, T.**, Lindsay, D., Fujikura, K., Fukushima, T. A new small device made of glass for separating microplastics from marine sediments.ASLO Aquatic Sciences Meeting, San Juan, Puerto Rico, March 2019.
+- **20.** <u>Nakajima, R.</u>, Tsuchiya, M., **Kitahashi, T.**, Lindsay, D., Fujikura, K., Fukushima, T. A new small device made of glass for separating microplastics from marine sediments (Poster). ASLO Aquatic Sciences Meeting, San Juan, Puerto Rico, March 2019.
 
-- **19.** **<u>Kitahashi, T.</u>**, Sugime, S., Nakamura, M., Nishijima, M., Inomata, K., Tsuchiya, M., Watanabe-Kayama, H., Yamamoto, H.  Detecting the effect of scientific drilling on meiofauna with the traditional, metagenomic and image-based methods. 15th International Deep-Sea Biology Symposium, Monterey, California, U.S., September 2018.
+- **19.** **<u>Kitahashi, T.</u>**, Sugime, S., Nakamura, M., Nishijima, M., Inomata, K., Tsuchiya, M., Watanabe-Kayama, H., Yamamoto, H.  Detecting the effect of scientific drilling on meiofauna with the traditional, metagenomic and image-based methods (Oral). 15th International Deep-Sea Biology Symposium, Monterey, California, U.S., September 2018.
 
-- **18.** <u>Nomaki, H.</u>,  Rastelli, E., Amaro, T., Tsuchiya, M., Seike, K., **Kitahashi, T.**, Suga, H., Miyamoto, N., Ogawa, NO, Danovaro, R., Nunoura, T., Ohkouchi, N.  15th International Deep-Sea Biology Symposium, Monterey, California, U.S., September 2018.
+- **18.** <u>Nomaki, H.</u>,  Rastelli, E., Amaro, T., Tsuchiya, M., Seike, K., **Kitahashi, T.**, Suga, H., Miyamoto, N., Ogawa, NO, Danovaro, R., Nunoura, T., Ohkouchi, N. Abyssal ecosystems and biogeochemical cycles revealed by in-situ experiments (Oral). 15th International Deep-Sea Biology Symposium, Monterey, California, U.S., September 2018.
 
 - **17.** <u>Shimanaga, M.</u>, Senokuchi1, R., Nakasugi, F., Watanabe-Kayama, H., Nomaki, H., **Kitahashi, T.**, Uyeno, D. Spatial difference in benthic copepod community compositions around hydrothermal vents in three adjacent seamounts in NW Pacific (Oral). 13th International Conference on Copepoda, California, USA. July 2017.
 
