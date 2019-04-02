@@ -5,6 +5,8 @@
 
 # 国際会議における発表
 
+- **20.** <u>Nakajima, R.</u>, Tsuchiya, M., **Kitahashi, T.**, Lindsay, D., Fujikura, K., Fukushima, T. A new small device made of glass for separating microplastics from marine sediments.ASLO Aquatic Sciences Meeting, San Juan, Puerto Rico, March 2019.
+
 - **19.** **<u>Kitahashi, T.</u>**, Sugime, S., Nakamura, M., Nishijima, M., Inomata, K., Tsuchiya, M., Watanabe-Kayama, H., Yamamoto, H.  Detecting the effect of scientific drilling on meiofauna with the traditional, metagenomic and image-based methods. 15th International Deep-Sea Biology Symposium, Monterey, California, U.S., September 2018.
 
 - **18.** <u>Nomaki, H.</u>,  Rastelli, E., Amaro, T., Tsuchiya, M., Seike, K., **Kitahashi, T.**, Suga, H., Miyamoto, N., Ogawa, NO, Danovaro, R., Nunoura, T., Ohkouchi, N.  15th International Deep-Sea Biology Symposium, Monterey, California, U.S., September 2018.
@@ -45,6 +47,8 @@
 
 
 # 国内学会における発表
+
+- **43.** <u>中嶋亮太</u>, 土屋正史, **北橋倫.**, Dhugal Lindsay, 藤倉克則, 福島朋彦. 海底堆積物からマイクロプラスチックを分離するための新しい器具の考案. 第53回日本水環境学会年会, 山梨, 2019年3月．
 
 - **42.** **<u>北橋倫</u>**，中村匡聡，西島美由紀，猪又健太郎，土屋正史，渡部裕美，山本啓之．メイオファウナを用いた環境影響評価手法の検討（ポスター）. ブルーアースサイエンス・テク2019，神奈川，2019年2月．
 
